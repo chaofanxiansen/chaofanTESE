@@ -5,7 +5,7 @@ turtle.penup()
 turtle.fd(-250)
 turtle.pendown()
 turtle.pensize(25)
-turtle.pencolor("maroom")
+turtle.pencolor("black")
 turtle.seth(-40)
 for i in range(4):
     turtle.circle(40,80)
